@@ -7,6 +7,8 @@
 - [ ] Lecture 3: GFS
 
 - [ ] Lecture 4: Primary-Backup Replication
+  
+  - [ ] [Fault-Tolerant Virtual Machines (2010)](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
 
 - [ ] Lecture 5: Go Threads and Raft
 
