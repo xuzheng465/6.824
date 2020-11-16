@@ -6,6 +6,10 @@
 
 - [ ] Lecture 3: GFS
 
+  - [ ] GFS(2003)
+  
+  - [ ] FAQ
+
 - [ ] Lecture 4: Primary-Backup Replication
   
   - [ ] [Fault-Tolerant Virtual Machines (2010)](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
